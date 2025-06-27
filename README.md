@@ -4,7 +4,7 @@
   <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" width="700" height="250">
 </p>
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+### 🙇 안녕하세요, Project Manager로 성장해나가고 있는 이강륜입니다!
 
 <!-- Body -->
 
