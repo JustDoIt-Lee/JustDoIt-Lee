@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" width="900"/>
+  <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" width="950"/>
 </p>
 
 ## Hi there 👋
