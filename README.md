@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/이강륜-PM으로_성장_중💡-blueviolet?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/PM-기획과_실행을_이끄는-critical?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/DEV-개발도_할_줄_아는-blue?style=for-the-badge&logo=android&logoColor=white">
 </p>
-
 
 <!-- Body -->
 
