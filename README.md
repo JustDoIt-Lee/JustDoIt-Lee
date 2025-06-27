@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/DEV-개발도_할_줄_아는-4682B4?style=flat&logo=android&logoColor=white" height="30"><br>
+  <img src="https://img.shields.io/badge/Product Manager-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="30">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/DEV-개발도_할_줄_아는-4682B4?style=for-the-badge&logo=android&logoColor=white"><br>
   <img src="https://img.shields.io/badge/PM-이강륜-blueviolet?style=for-the-badge&logo=github&logoColor=white">
 </p>
