@@ -4,8 +4,9 @@
   <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" width="700" height="250">
 </p>
 
-### 🙇‍♂️ **Hi, I'm 이강륜!**
-#### 🚀 Project Manager로 성장 중입니다.
+<p align="center">
+  <img src="https://img.shields.io/badge/이강륜-Project_Manager-orange?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 <!-- Body -->
 
