@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/이강륜-Project_Manager-orange?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/이강륜-PM으로_성장_중💡-blueviolet?style=for-the-badge&logo=target&logoColor=white">
 </p>
+
 
 <!-- Body -->
 
