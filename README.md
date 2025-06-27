@@ -34,4 +34,4 @@
 ### 🚌 Top Langs & Algorithm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustDoIt-Lee&layout=compact&theme=default)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=frog4821)](https://solved.ac/profile/frog4821)
