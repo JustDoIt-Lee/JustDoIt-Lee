@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/이강륜-Project_Manager_&_Developer-blueviolet?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/아이디어를_실행으로-전략과_개발_모두_가능🔥-darkorange?style=for-the-badge&logo=lightbulb&logoColor=white">
+  <img src="https://img.shields.io/badge/🙇‍♂️ 이강륜--blueviolet?style=for-the-badge&logo=github&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/PM-기획과_실행을_이끄는-critical?style=for-the-badge&logo=target&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/DEV-개발도_할_줄_아는-4682B4?style=for-the-badge&logo=android&logoColor=white">
 </p>
-
 
 <!-- Body -->
 
