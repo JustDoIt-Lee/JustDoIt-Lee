@@ -5,7 +5,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEV-개발도_할_줄_아는-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
