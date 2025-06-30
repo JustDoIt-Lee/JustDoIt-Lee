@@ -38,14 +38,26 @@
 ![ViewModel](https://img.shields.io/badge/ViewModel-Architecture-blue?style=for-the-badge&logo=android&logoColor=white)
 ![StateFlow](https://img.shields.io/badge/StateFlow-Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-DI-purple?style=for-the-badge&logo=dagger&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-4DB33D?style=for-the-badge&logo=spring&logoColor=white)
 
 **🛠️ Tools & Environment**
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**🗄️ Database & Test**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-CA2C92?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit4-25A162?style=for-the-badge)
 
 ---
 
