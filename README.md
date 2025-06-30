@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/PM-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
 </p>
 
-<br>
-
 <!-- Body -->
 
 ### 🦾 Skills
