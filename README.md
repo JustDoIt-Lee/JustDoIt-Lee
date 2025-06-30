@@ -4,13 +4,13 @@
   <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" width="900" height="300">
 </p>
 
+<br>
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/DEV-개발도_할_줄_아는-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
   <img src="https://img.shields.io/badge/PM-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
 </p>
-
-<br>
-<br>
 
 <!-- Body -->
 
