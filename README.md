@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" style="width:800px; height:200px;" alt="Just Do It Banner">
+  <img src="https://github.com/JustDoIt-Lee/JustDoIt-Lee/blob/main/Just%20Do%20It.png" style="width:800px; height:300px;" alt="Just Do It Banner">
 </p>
 
 <br>
