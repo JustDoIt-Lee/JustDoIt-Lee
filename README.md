@@ -23,8 +23,8 @@
 - 🛡️ [Spring-Security-Board - 보안이 적용된 게시판 (Spring Security 사용)](https://github.com/JustDoIt-Lee/spring-security-board)  
   > Spring Security 기반 로그인/권한 기능이 적용된 게시판 시스템
 
-- 📁 [기타 저장소 보기](https://github.com/JustDoIt-Lee?tab=repositories)
-
+- 🎯 [product-draw-system](https://github.com/JustDoIt-Lee/product-draw-system.git)
+  > 고객의 상품 응모와 중복 응모 방지를 위한 추첨 기반 백엔드 시스템 (Java + Spring Boot)
 ---
 
 <!-- Body -->
