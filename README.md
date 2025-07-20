@@ -20,6 +20,9 @@
 - 💡 [i-Share - 아이디어 공유 플랫폼](https://github.com/JustDoIt-Lee/iShare)  
   > 아이디어 등록, 공유, 거래까지 가능한 안드로이드 기반 서비스 (기획 + 개발)
 
+- 📊 [Gena Dashboard - 실시간 데이터 시각화 대시보드](https://github.com/JustDoIt-Lee/gena-dashboard)  
+  > Next.js와 Redis를 활용한 실시간 데이터 시각화 및 관리 시스템
+
 - 🛡️ [Spring-Security-Board - 보안이 적용된 게시판 (Spring Security 사용)](https://github.com/JustDoIt-Lee/spring-security-board)  
   > Spring Security 기반 로그인/권한 기능이 적용된 게시판 시스템
 
@@ -33,6 +36,9 @@
 
 **🧑‍💻 Languages & Frameworks**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![ViewModel](https://img.shields.io/badge/ViewModel-Architecture-blue?style=for-the-badge&logo=android&logoColor=white)
@@ -42,8 +48,18 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-4DB33D?style=for-the-badge&logo=spring&logoColor=white)
 
+**🎨 Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 **🛠️ Tools & Environment**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
