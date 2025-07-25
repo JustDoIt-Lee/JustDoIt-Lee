@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Val-개발에도_진심인_PM-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
+  <img src="https://img.shields.io/badge/Dev-개발에도_진심인_PM-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
   <img src="https://img.shields.io/badge/PM-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
 </p>
 
