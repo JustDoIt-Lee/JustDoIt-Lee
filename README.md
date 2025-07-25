@@ -17,7 +17,7 @@
 
 ### 🚀 대표 프로젝트
 
-- 📊 [Gena Dashboard - 실시간 데이터 시각화 대시보드](https://github.com/JustDoIt-Lee/gena-dashboard)  
+- 📊 [Data Dashboard - 실시간 데이터 시각화 대시보드](https://github.com/JustDoIt-Lee/gena-dashboard)  
   > Next.js와 Redis를 활용한 실시간 데이터 시각화 및 관리 시스템
 
 - 💡 [i-Share - 아이디어 공유 플랫폼](https://github.com/JustDoIt-Lee/iShare)  
