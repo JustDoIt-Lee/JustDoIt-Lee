@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Val-가치를_만드는_개발자-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
-  <img src="https://img.shields.io/badge/Dev-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Real-개발에도_진심인-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
+  <img src="https://img.shields.io/badge/Pm-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
 </p>
 
 <br>
