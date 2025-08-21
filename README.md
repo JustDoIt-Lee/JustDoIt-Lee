@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Des-기획하고_개발하는_것에_진심인_개발자-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
-  <img src="https://img.shields.io/badge/Dev-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Des-기획하고_직접_구현해보는_것을_즐깁니다-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
+  <img src="https://img.shields.io/badge/All-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
 </p>
 
 <br>
