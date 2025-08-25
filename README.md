@@ -26,8 +26,9 @@
 - 🎟️ [Interactive Seating Chart - 인터랙티브 좌석 배치도 시스템](https://github.com/JustDoIt-Lee/seating-chart)
   > Next.js와 TypeScript로 구현된 좌석 시각화·선택·가격 표시 기능이 포함된 인터랙티브 좌석 배치도 시스템 (프로토타입)
 
-- 💡 [i-Share - 아이디어 공유/거래 플랫폼, Kotlin Version](https://github.com/JustDoIt-Lee/iShare)
-- 💡 [React-Native Version](https://github.com/JustDoIt-Lee/iShare)
+- 💡 i-Share - 아이디어 공유/거래 플랫폼
+- [Kotlin Version](https://github.com/JustDoIt-Lee/iShare)
+- [React-Native Version](https://github.com/JustDoIt-Lee/iShare)
   > 아이디어 등록, 공유, 거래까지 가능한 안드로이드 기반 서비스 (기획 + 개발)
 
 - 🛡️ [Spring-Security-Board - 보안이 적용된 게시판 (Spring Security 사용)](https://github.com/JustDoIt-Lee/spring-security-board)  
