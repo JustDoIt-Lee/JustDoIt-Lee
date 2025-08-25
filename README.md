@@ -29,7 +29,6 @@
 - 💡 i-Share - 아이디어 공유/거래 플랫폼
   - [Kotlin Version](https://github.com/JustDoIt-Lee/iShare)
   - [React-Native Version](https://github.com/JustDoIt-Lee/iShare)
-&nbsp;
   > 아이디어 등록, 공유, 거래까지 가능한 안드로이드 기반 서비스 (기획 + 개발)
 
 - 🛡️ [Spring-Security-Board - 보안이 적용된 게시판 (Spring Security 사용)](https://github.com/JustDoIt-Lee/spring-security-board)  
