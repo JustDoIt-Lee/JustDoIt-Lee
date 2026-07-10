@@ -65,6 +65,23 @@
 
 ---
 
+**📱 Android**
+
+  ![Jetpack Compose](https://img.shields.io/badg
+  e/Jetpack_Compose-4285F4?style=for-the-badge&l
+  ogo=jetpackcompose&logoColor=white)
+  ![ViewModel](https://img.shields.io/badge/View
+  Model-3DDC84?style=for-the-badge&logo=android&
+  logoColor=white)
+  ![StateFlow](https://img.shields.io/badge/Stat
+  eFlow-7F52FF?style=for-the-badge&logo=kotlin&l
+  ogoColor=white)
+  ![Hilt](https://img.shields.io/badge/Hilt-2C4A
+  A0?style=for-the-badge&logo=dagger&logoColor=w
+  hite)
+
+---
+
 ### 🖥️ Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
