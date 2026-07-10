@@ -17,7 +17,7 @@
 
 ### 🚀 대표 프로젝트
 
-- 📱 [clipket - 숏폼 영상 AI 아카이브](https://github.com/JustDoIt-Lee/clipket-showcase)
+- 📱 [Clipket - 숏폼 영상 AI 아카이브](https://github.com/JustDoIt-Lee/clipket-showcase)
   > React Native와 FastAPI, OpenAI를 활용한 숏폼 영상 자동 분류·시맨틱 검색 iOS 앱
 
 - 📊 [Data Dashboard - 실시간 데이터 시각화 대시보드](https://github.com/JustDoIt-Lee/gena-dashboard)  
