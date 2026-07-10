@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Des-기획하고_직접_구현해보는_것을_즐깁니다-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
+  <img src="https://img.shields.io/badge/Dev-기획하고_직접_구현해보는_것을_즐깁니다-4682B4?style=flat&logo=android&logoColor=white" height="25"><br>
   <img src="https://img.shields.io/badge/All-이강륜-blueviolet?style=flat&logo=github&logoColor=white" height="25">
 </p>
 
@@ -16,6 +16,9 @@
 ---
 
 ### 🚀 대표 프로젝트
+
+- 📱 [clipket - 숏폼 영상 AI 아카이브](https://github.com/JustDoIt-Lee/clipket-showcase)
+  > React Native와 FastAPI, OpenAI를 활용한 숏폼 영상 자동 분류·시맨틱 검색 iOS 앱
 
 - 📊 [Data Dashboard - 실시간 데이터 시각화 대시보드](https://github.com/JustDoIt-Lee/gena-dashboard)  
   > Next.js와 Redis를 활용한 실시간 데이터 시각화 및 관리 시스템
